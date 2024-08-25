@@ -1,2 +1,2 @@
-# Caesar-Cipher-Implementation
-I am delighted to have successfully accomplished the task of implementing the Caesar cipher algorithm as a component of my internship. This project included the creation of a Python application to cipher and decipher text, augmenting my understanding of fundamental cryptography. 
+# PRODIGY_CS_01
+Create a python program that can encrypt and decrypt text using the caesar cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption
